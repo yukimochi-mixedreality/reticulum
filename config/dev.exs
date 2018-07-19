@@ -69,7 +69,7 @@ config :ret, Ret.Repo,
   username: "postgres",
   password: "postgres",
   database: "ret_dev",
-  hostname: "localhost",
+  hostname: "db",
   template: "template0",
   pool_size: 10
 
